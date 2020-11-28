@@ -1,6 +1,8 @@
 # Mantle Clamp / Ikea Lack Enclosure Mount
 
-I made my Ikea Lack enclosure 3 Lacks tall. It means less bending but it also allows for a lot of wobble. The enclosure sits in front of a stove mantle in our garage so I made a mounting bracked that could clamp to it without damage. To help dampen the vibrations I added press fit pads printed in 40D TPU.
+I made my Ikea Lack enclosure 3 Lacks tall. It means less bending to work with my printer, but it also allows for a lot of wobble. The enclosure sits in front of a stove mantle in our garage so I made a mounting bracket that could clamp to it without damage. To help dampen the vibrations I added press fit pads printed in 40D TPU.
+
+You need 2 of the TPU pads, one fore the clamp and one for the screw. You should screw the screw partway in before adding its TPU pad.
 
 ![assembled clamp not yet installed](images/assembled.jpg)
 
