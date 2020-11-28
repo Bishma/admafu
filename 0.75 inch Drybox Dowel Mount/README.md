@@ -13,3 +13,10 @@ Printing:
 * 3 parimeters
 * 10% infill
 * MatterHackers translucent neon green Pro Series PLA
+
+Assembly:
+
+* Hardware:
+  * 8x M3 x 8 screws (4 per side)
+  * 8x M3 hexagonal nuts
+* I used a ruler to try to find the center of each side (you can see my sharpie mark). Then used the back pieces as a template to mark the holes I needed to drill through the storage box I was attaching them to.
