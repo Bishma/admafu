@@ -10,7 +10,7 @@ The outside piece helps reenforce, provide air blocking, and to provide shallow 
 Printing:
 
 * 0.2mm layer height
-* 3 parimeters
+* 3 perimeters
 * 10% infill
 * MatterHackers translucent neon green Pro Series PLA
 
