@@ -7,3 +7,14 @@ I wanted to be able access the spools from either end to make it as easy as poss
 ![collage](images/collage.jpg)
 
 ![hanging view](images/hanging.jpg)
+
+Printing:
+
+* 0.2mm layers
+* 0.4mm nozzle
+* 3 perimeters
+* 20% infill
+
+Post-Printing
+
+There is a single sacrificial layer on the top shaft so it can print with contiguous bridging and doesn't require supports. I used a drill bit to clear out the cord path.
