@@ -16,3 +16,7 @@ This repo does not include any remixes.
 * Octoprint via RPi 4
 * [PrusaPrinters](https://www.prusaprinters.org/social/28313-dereksrose/prints)
 * [Thingiverse](https://www.thingiverse.com/dereksrose/designs)
+
+### My 3D Printing Social Media:
+
+* [Twitter](https://twitter.com/derek_prints)
