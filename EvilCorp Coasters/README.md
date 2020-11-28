@@ -17,5 +17,11 @@ Included Coasters:
 * [Omni Consumer Products from RoboCop](photos/ocp.jpg)
 * [Tyrell Corporation from Blade Runner](photos/tyrell.jpg)
 * [Weyland-Yutani from Alien](photos/weyland.jpg)
- 
- In addition to the coasters I made a coaster holder that has the Veridian Dynamics logo from Better Off Ted embossed on the front.
+
+In addition to the coasters I made a coaster holder that has the Veridian Dynamics logo from Better Off Ted embossed on the front.
+
+Printing:
+
+* 0.2mm layer height
+* 0.4mm nozzle
+* Various filaments (all PLA)
