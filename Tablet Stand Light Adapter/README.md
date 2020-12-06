@@ -1,8 +1,8 @@
-# Tablet Stand Light Adaptor
+# Tablet Stand Ring Light Adaptor
 
 ![assembled view of adaptor](images/assembled.jpg)
 
-This was a request from my wife, who wanted a way to make her ring light (Yesker 10 inch) work with her tablet floor stand (Viozon Model UP-6A).The challenge was to keep the light as close as possible to the tablet without obstructing any of the stand's axes of motion.
+This was a request from my wife, who wanted a way to make her ring light (TcBrilli 10 inch) work with her tablet floor stand (Viozon Model UP-6A).The challenge was to keep the light as close as possible to the tablet without obstructing any of the stand's axes of motion.
 
 ![adaptor without the light's ball joint](images/bracket_and_flange.jpg)
 
