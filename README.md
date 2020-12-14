@@ -1,4 +1,4 @@
-# ADAMFU
+# ADMAFU
 
 These are the original designs I have developed for 3D printing using Fusion 360. This is a mix of things that may be useful to others and things I developed for my very specific needs.
 
