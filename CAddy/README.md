@@ -31,8 +31,7 @@ No supports are needed and 10% infill is plenty.
 * See the [numbered picture](images/knife%20assembly.jpg) for assembly of the utility knife.
     The knife stores blade down in the CAddy tray. There is a backstop to prevent the blade from hitting bottom.
 
-## Filaments Pictured:
+## Filaments Pictured
 
 * Prusament PLA in Galaxy Purple
 * Printed Solid Jesse PLA in Feta Green
-
