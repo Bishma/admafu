@@ -8,6 +8,6 @@ The window hole I had to fill it WAY bigger than the size of my printbed. I had 
 
 The insulating effect was better than expected. The unit was able to run less this last summer and the decrease in noise was noticeable.
 
-I know for this model to be useful to anyway I should give measurements and whatnot. But just assume it's not going to work for you. This is really be committed for posterity.
+I know for this model to be useful to anyway I should give measurements and whatnot. But just assume it's not going to work for you. This was a fun project but a 3D printer wasn't the best tool for the job... it was just the best tool I had. This is really be committed for posterity.
 
 ![The spacer in place](images/photo_2023-03-03_12-37-11.jpg)
